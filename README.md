@@ -6,7 +6,7 @@ It's a nice trip.
 
 
 #it's for bg
-there is ppu.v and ppu_bg.v, it is used to test the bg.
+there is ppu.v and ppu_bg.v, it is used to test the bg.\n
 里面有两个文件，可以直接放到标程里面和标程对接。跑出来是黄色背景和一坨白色的物体
 aaaaaaaa
 #it's for ri
